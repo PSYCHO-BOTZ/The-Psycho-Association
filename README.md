@@ -6,7 +6,8 @@
 <b>քʀօʄɨʟɛ</b>
 </p>
 <p align="center">
-<a href="https://telegram.me/Aswin_pm_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Joelkb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/cinemala_com1">
+  <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 <a href="https://telegram.me/cinemala_com">
     &nbsp;<img src="https://img.shields.io/badge/𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼-𝙶𝚁𝙾𝚄𝙿-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
   </a>
