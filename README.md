@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Devil-Botz's+Profile;I+am+a+beginer+Programmer;Learning+Python+and+Pyrogram+and+others;I+am+a+BCA+student;Join+@cinemala_com+for+Movies+Series..;TeleGram+Bot+Maker;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
 
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="Devil-Botz :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{Devil-Botz}/count.svg" alt="Devil-Botz :: Visitor's Count" />
 
 <img src="https://komarev.com/ghpvc/?username=Devil-Botz&color=brightgreen" alt="watching_count" />
 <p align="center">
@@ -10,7 +10,7 @@
 <a href="https://t.me/cinemala_com1">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 <a href="https://telegram.me/cinemala_com">
-    &nbsp;<img src="https://img.shields.io/badge/𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼-𝙶𝚁𝙾𝚄𝙿-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼-𝙶𝚁𝙾𝚄𝙿-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
   </a>
 </p>
 <p align="center">
