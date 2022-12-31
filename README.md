@@ -18,10 +18,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devil-Botz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devil-Botz&theme=tokyonight" alt="mystreak"/>
 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
-    </p>
-
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Devil-Botz&custom_title=Contribution+Graph&theme=xcode" />
 <img src="https://github-readme-stats.vercel.app/api?username=Devil-Botz&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
