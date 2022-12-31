@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://t.me/cinemala_com1">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
-<a href="https://telegram.me/cinemala_com">
+<a href="https://telegram.me/cinemala_com1">
     &nbsp;<img src="https://img.shields.io/badge/𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼-𝙶𝚁𝙾𝚄𝙿-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
   </a>
 </p>
