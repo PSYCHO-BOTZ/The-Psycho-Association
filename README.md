@@ -16,7 +16,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devil-Botz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devil-Botz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devil-Botz&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devil-Botz&theme=chartreuse-dark" alt="mystreak"/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Devil-Botz&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
