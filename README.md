@@ -20,7 +20,7 @@
 
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Devil-Botz&custom_title=Contribution+Graph&theme=xcode" />
-<img src="https://github-readme-stats.vercel.app/api?username=Devil-Botz&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Devil-Botz&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=dark" alt="SVR's github stats" />
 </p>
 
 </div>
